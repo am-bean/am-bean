@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @am-bean
 
-- 🌱 I’m a postgraduate student in Social Data Science at the University of Oxford. 
+- 🌱 I’m a doctoral student in Social Data Science at the University of Oxford. 
 
 - Most of my projects are in private repositories, but I'm working on transferring some of the code for public sharing.
 
