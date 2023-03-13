@@ -4,7 +4,7 @@
 
 - Most of my projects are in private repositories, but I'm working on transferring some of the code for public sharing.
 
-- 📫 You can email me at andrew.bean@oii.ox.ac.uk or find me on LinkedIn https://www.linkedin.com/in/andrew-bean-05903b8a/
+- 📫 You can email me at andrew.bean@oii.ox.ac.uk or find me on LinkedIn https://www.linkedin.com/in/andrew-m-bean/
 
 <!---
 am-bean/am-bean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
